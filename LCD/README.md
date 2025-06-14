@@ -11,4 +11,4 @@ LCD1602 (controllo parallelo):
 - RW → GND
 - E → pin 8
 - D4-D7 → pin 9-12
-- A/K → +5V / GND per retroilluminazione
+- A/K → +5V / GND (retroilluminazione)
